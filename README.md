@@ -1,4 +1,4 @@
-![image](https://mentalhealth.ie/wp-content/uploads/2021/02/scale-of-emotions-with-emojis.jpg)
+<p align="center"><img src="https://mentalhealth.ie/wp-content/uploads/2021/02/scale-of-emotions-with-emojis.jpg" alt="header image"/></p>
 
 # Text Classification API
 
